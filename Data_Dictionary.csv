@@ -1,0 +1,23 @@
+ID,unique ID assigned to each applicant
+loan_amnt,loan amount ($) applied each applicant
+loan_term,Loan duration in years
+interest_rate,Applicable interest rate on Loan in %
+loan_grade,Loan Grade Assigned by the bank
+loan_subgrade,Loan SubGrade Assigned by the bank
+job_experience,Number of years job experience 
+home_ownership,Status of House Ownership
+annual_income,Annual income of the applicant
+income_verification_status,Status of Income verification by the bank
+loan_purpose,Purpose of loan
+state_code,State code of the applicant's residence 
+debt_to_income,Ratio to total debt to income (total debt might include other loan aswell)
+delinq_2yrs,number of 30+ days delinquency in past 2 years
+public_records,number of legal cases against the applicant
+revolving_balance,total credit revolving balance
+total_acc,total number of credit lines available in members credit line
+interest_receive,total interest received by the bank on the loan
+application_type,Whether the applicant has applied the loan by creating individuall or joint account
+last_week_pay,How many months have the applicant paid the loan EMI already
+total_current_balance,total current balance of all the accounts of applicant
+total_revolving_limit,total revolving credit limit
+default,"status of loan amount, 1 = Defaulter, 0 = Non Defaulters"
